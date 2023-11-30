@@ -194,17 +194,6 @@ upper = np.array([0.52, 1.0,-0.33])
 prior = priors.Uniform(lower, upper)
 
 
-# In[43]:
-
-
-help(ndes.ConditionalMaskedAutoregressiveFlow)
-
-
-# In[44]:
-
-
-tf.__version__
-
 
 # In[45]:
 
