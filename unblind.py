@@ -23,7 +23,6 @@ import scipy.interpolate as interpolate
 import time
 from scipy.interpolate import UnivariateSpline
 # tf.logging.set_verbosity(tf.logging.ERROR)
-get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # # Load data
