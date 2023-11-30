@@ -8,6 +8,7 @@ import pydelfi.priors as priors
 import pydelfi.ndes as ndes
 import pydelfi.delfi as delfi
 
+import tensorflow as tf
 
 # In[27]:
 
